@@ -30,10 +30,18 @@ By leveraging the power of IoT instrumentation and cutting-edge AI algorithms, t
 Embracing the latest technological advancements, our application enhances the user's daily life by simplifying the process of managing and organizing their refrigerator contents. Say goodbye to guesswork and hello to effortless access to crucial information, all at the fingertips of the user.
 
 ## Screenshots
-![home screen](https://github.com/YoniIfrah/fridgeIT/assets/73611785/5fc1d91f-2400-4768-a06c-92684b29e2e4)
-![shopping list two products quantity 1](https:/![all detected products screen](https://github.com/YoniIfrah/fridgeIT/assets/73611785/248fa838-e4bd-4b4b-b86b-cf429d4c0e93)
-/github.com/YoniIfrah/fridgeIT/assets/73611785/f5d335c7-29fb-4c83-92b4-9fa66f5ccd96)
-![sign up](https://github.com/YoniIfrah/fridgeIT/assets/73611785/a0d92097-ecfc-435c-8325-37093b59ba6f)
+#### Sign up
+![sign up](https://github.com/YoniIfrah/fridgeIT/assets/73611785/9cbd1cf0-3329-439f-953f-cc86d95eb735)
+
+#### Recently detected products
+![home screen](https://github.com/YoniIfrah/fridgeIT/assets/73611785/347637a4-37e8-4385-825c-1e2ca65f5c81)
+
+#### Shopping list
+![shopping list two products quantity 1](https://github.com/YoniIfrah/fridgeIT/assets/73611785/1deff53a-5af5-438f-a8b2-3e53d9fca05b)
+
+#### All detected products
+![all detected products screen](https://github.com/YoniIfrah/fridgeIT/assets/73611785/48bf970f-5316-45c6-92a9-a641453fa653)
+
 
 
 ## Contributing
